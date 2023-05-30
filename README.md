@@ -19,4 +19,4 @@ This repository includes all the projects that I did during my Master's in Data 
 8. Web Scraping BiggerPockets Podcast data - Used NLTK, Beautiful Soup and word cloud libraries to scrape the data from the BiggerPockets website and create wordcloud of 50 important/frequent words.
 
 
-https://github.com/coder-brunette/Data_Science_Projects/blob/main/ggiphy7.gif
+![](https://github.com/coder-brunette/Data_Science_Projects/blob/main/ggiphy7.gif)
